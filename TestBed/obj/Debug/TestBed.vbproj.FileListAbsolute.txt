@@ -1,0 +1,75 @@
+C:\Users\Mevlut\Desktop\veritabani\tree down\MdiTabStrip_src\TestBed\bin\Debug\TestBed.exe
+C:\Users\Mevlut\Desktop\veritabani\tree down\MdiTabStrip_src\TestBed\bin\Debug\TestBed.pdb
+C:\Users\Mevlut\Desktop\veritabani\tree down\MdiTabStrip_src\TestBed\bin\Debug\TestBed.xml
+C:\Users\Mevlut\Desktop\veritabani\tree down\MdiTabStrip_src\TestBed\bin\Debug\MdiTabStrip.dll
+C:\Users\Mevlut\Desktop\veritabani\tree down\MdiTabStrip_src\TestBed\obj\Debug\TestBed.Form1.resources
+C:\Users\Mevlut\Desktop\veritabani\tree down\MdiTabStrip_src\TestBed\obj\Debug\TestBed.Form2.resources
+C:\Users\Mevlut\Desktop\veritabani\tree down\MdiTabStrip_src\TestBed\obj\Debug\TestBed.Form3.resources
+C:\Users\Mevlut\Desktop\veritabani\tree down\MdiTabStrip_src\TestBed\obj\Debug\TestBed.Form4.resources
+C:\Users\Mevlut\Desktop\veritabani\tree down\MdiTabStrip_src\TestBed\obj\Debug\TestBed.Form5.resources
+C:\Users\Mevlut\Desktop\veritabani\tree down\MdiTabStrip_src\TestBed\obj\Debug\TestBed.Form6.resources
+C:\Users\Mevlut\Desktop\veritabani\tree down\MdiTabStrip_src\TestBed\obj\Debug\TestBed.Resources.resources
+C:\Users\Mevlut\Desktop\veritabani\tree down\MdiTabStrip_src\TestBed\obj\Debug\TestBed.vbproj.GenerateResource.Cache
+C:\Users\Mevlut\Desktop\veritabani\tree down\MdiTabStrip_src\TestBed\obj\Debug\TestBed.exe
+C:\Users\Mevlut\Desktop\veritabani\tree down\MdiTabStrip_src\TestBed\obj\Debug\TestBed.xml
+C:\Users\Mevlut\Desktop\veritabani\tree down\MdiTabStrip_src\TestBed\obj\Debug\TestBed.pdb
+C:\Users\Mevlut\Desktop\veritabani\tree down\MdiTabStrip_src\Yeni klasör\MdiTabStrip_2\TestBed\obj\Debug\TestBed.exe
+C:\Users\Mevlut\Desktop\veritabani\tree down\MdiTabStrip_src\Yeni klasör\MdiTabStrip_2\TestBed\obj\Debug\TestBed.xml
+C:\Users\Mevlut\Desktop\veritabani\tree down\MdiTabStrip_src\Yeni klasör\MdiTabStrip_2\TestBed\obj\Debug\TestBed.pdb
+C:\Users\Mevlut\Desktop\veritabani\tree down\MdiTabStrip_src\Yeni klasör\MdiTabStrip_3\TestBed\obj\Debug\TestBed.exe
+C:\Users\Mevlut\Desktop\veritabani\tree down\MdiTabStrip_src\Yeni klasör\MdiTabStrip_3\TestBed\obj\Debug\TestBed.xml
+C:\Users\Mevlut\Desktop\veritabani\tree down\MdiTabStrip_src\Yeni klasör\MdiTabStrip_3\TestBed\obj\Debug\TestBed.pdb
+C:\Kuran_Arge\1-Kuran_Arge_Anaform çalışmaları\Kuran_Arge\TestBed\obj\Debug\TestBed.exe
+C:\Kuran_Arge\1-Kuran_Arge_Anaform çalışmaları\Kuran_Arge\TestBed\obj\Debug\TestBed.xml
+C:\Kuran_Arge\1-Kuran_Arge_Anaform çalışmaları\Kuran_Arge\TestBed\obj\Debug\TestBed.pdb
+C:\Kuran_Arge\testvisual\TestBed\TestBed\obj\Debug\TestBed.exe
+C:\Kuran_Arge\testvisual\TestBed\TestBed\obj\Debug\TestBed.xml
+C:\Kuran_Arge\testvisual\TestBed\TestBed\obj\Debug\TestBed.pdb
+C:\Kuran_Arge\testvisual\TestBed\TestBed\bin\Debug\TestBed.exe.config
+C:\Kuran_Arge\testvisual\TestBed\TestBed\bin\Debug\TestBed.exe
+C:\Kuran_Arge\testvisual\TestBed\TestBed\bin\Debug\TestBed.pdb
+C:\Kuran_Arge\testvisual\TestBed\TestBed\bin\Debug\TestBed.xml
+C:\Kuran_Arge\testvisual\TestBed\TestBed\obj\Debug\TestBed.frm_ANA.resources
+C:\Kuran_Arge\testvisual\TestBed\TestBed\obj\Debug\TestBed.Form3.resources
+C:\Kuran_Arge\testvisual\TestBed\TestBed\obj\Debug\TestBed.Form4.resources
+C:\Kuran_Arge\testvisual\TestBed\TestBed\obj\Debug\TestBed.Form5.resources
+C:\Kuran_Arge\testvisual\TestBed\TestBed\obj\Debug\TestBed.Form6.resources
+C:\Kuran_Arge\testvisual\TestBed\TestBed\obj\Debug\TestBed.Resources.resources
+C:\Kuran_Arge\testvisual\TestBed\TestBed\obj\Debug\TestBed.vbproj.GenerateResource.Cache
+C:\Kuran_Arge\testvisual\TestBed\TestBed\obj\Debug\TestBed.vbprojResolveAssemblyReference.cache
+C:\Kuran_Arge\testvisual\TestBed\TestBed\obj\Debug\TestBed.frm_orta_kuran.resources
+C:\Kuran_Arge\testvisual\TestBed\TestBed\obj\Debug\TestBed.MDI_ANA.resources
+C:\Kuran_Arge\testvisual\TestBed_1\TestBed\bin\Debug\TestBed.exe.config
+C:\Kuran_Arge\testvisual\TestBed_1\TestBed\obj\Debug\TestBed.exe
+C:\Kuran_Arge\testvisual\TestBed_1\TestBed\obj\Debug\TestBed.xml
+C:\Kuran_Arge\testvisual\TestBed_1\TestBed\obj\Debug\TestBed.pdb
+C:\Kuran_Arge\testvisual\TestBed_1\TestBed\bin\Debug\TestBed.exe
+C:\Kuran_Arge\testvisual\TestBed_1\TestBed\bin\Debug\TestBed.pdb
+C:\Kuran_Arge\testvisual\TestBed_1\TestBed\bin\Debug\TestBed.xml
+C:\Kuran_Arge\testvisual\TestBed_1\TestBed\obj\Debug\TestBed.vbprojResolveAssemblyReference.cache
+C:\Kuran_Arge\testvisual\TestBed_1\TestBed\obj\Debug\TestBed.frm_ANA.resources
+C:\Kuran_Arge\testvisual\TestBed_1\TestBed\obj\Debug\TestBed.frm_orta_kuran.resources
+C:\Kuran_Arge\testvisual\TestBed_1\TestBed\obj\Debug\TestBed.Form3.resources
+C:\Kuran_Arge\testvisual\TestBed_1\TestBed\obj\Debug\TestBed.Form4.resources
+C:\Kuran_Arge\testvisual\TestBed_1\TestBed\obj\Debug\TestBed.Form5.resources
+C:\Kuran_Arge\testvisual\TestBed_1\TestBed\obj\Debug\TestBed.Form6.resources
+C:\Kuran_Arge\testvisual\TestBed_1\TestBed\obj\Debug\TestBed.MDI_ANA.resources
+C:\Kuran_Arge\testvisual\TestBed_1\TestBed\obj\Debug\TestBed.Resources.resources
+C:\Kuran_Arge\testvisual\TestBed_1\TestBed\obj\Debug\TestBed.vbproj.GenerateResource.Cache
+C:\Kuran_Arge\testvisual\TestBed_2\TestBed\bin\Debug\TestBed.exe.config
+C:\Kuran_Arge\testvisual\TestBed_2\TestBed\obj\Debug\TestBed.exe
+C:\Kuran_Arge\testvisual\TestBed_2\TestBed\obj\Debug\TestBed.xml
+C:\Kuran_Arge\testvisual\TestBed_2\TestBed\obj\Debug\TestBed.pdb
+C:\Kuran_Arge\testvisual\TestBed_2\TestBed\bin\Debug\TestBed.exe
+C:\Kuran_Arge\testvisual\TestBed_2\TestBed\bin\Debug\TestBed.pdb
+C:\Kuran_Arge\testvisual\TestBed_2\TestBed\bin\Debug\TestBed.xml
+C:\Kuran_Arge\testvisual\TestBed_2\TestBed\obj\Debug\TestBed.vbprojResolveAssemblyReference.cache
+C:\Kuran_Arge\testvisual\TestBed_2\TestBed\obj\Debug\TestBed.frm_ANA.resources
+C:\Kuran_Arge\testvisual\TestBed_2\TestBed\obj\Debug\TestBed.frm_orta_kuran.resources
+C:\Kuran_Arge\testvisual\TestBed_2\TestBed\obj\Debug\TestBed.Form3.resources
+C:\Kuran_Arge\testvisual\TestBed_2\TestBed\obj\Debug\TestBed.Form4.resources
+C:\Kuran_Arge\testvisual\TestBed_2\TestBed\obj\Debug\TestBed.Form5.resources
+C:\Kuran_Arge\testvisual\TestBed_2\TestBed\obj\Debug\TestBed.Form6.resources
+C:\Kuran_Arge\testvisual\TestBed_2\TestBed\obj\Debug\TestBed.MDI_ANA.resources
+C:\Kuran_Arge\testvisual\TestBed_2\TestBed\obj\Debug\TestBed.Resources.resources
+C:\Kuran_Arge\testvisual\TestBed_2\TestBed\obj\Debug\TestBed.vbproj.GenerateResource.Cache

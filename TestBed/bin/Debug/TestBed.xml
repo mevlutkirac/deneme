@@ -1,0 +1,188 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TestBed
+</name>
+</assembly>
+<members>
+<member name="T:TestBed.derDataSet1.MusteriDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TestBed.derDataSet1.MusteriTelefonDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TestBed.derDataSet1.MusteriRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TestBed.derDataSet1.MusteriTelefonRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TestBed.derDataSet1.MusteriRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TestBed.derDataSet1.MusteriTelefonRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TestBed.derDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:TestBed.derDataSet1TableAdapters.MusteriTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TestBed.derDataSet1TableAdapters.MusteriTelefonTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:TestBed.derDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(TestBed.derDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:TestBed.derDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(TestBed.derDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:TestBed.derDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(TestBed.derDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:TestBed.derDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:TestBed.derDataSet1TableAdapters.TableAdapterManager.UpdateAll(TestBed.derDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:TestBed.derDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:TestBed.derDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:TestBed.derDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:TestBed.My.Resources.Resources.ResourceManager">
+	<summary>
+  Bu sınıf tarafından kullanılan, önbelleğe alınmış ResourceManager örneğini döndürür.
+</summary>
+</member><member name="P:TestBed.My.Resources.Resources.Culture">
+	<summary>
+  Bu türü kesin olarak belirtilmiş kaynak sınıfını kullanarak geçerli iş parçacığının
+  CurrentUICulture özelliğini tüm kaynak aramaları için geçersiz kılar.
+</summary>
+</member><member name="P:TestBed.My.Resources.Resources.DocumentHS">
+	<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member><member name="P:TestBed.My.Resources.Resources.EditTableHS">
+	<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member><member name="P:TestBed.My.Resources.Resources.NewDocumentHS">
+	<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member><member name="P:TestBed.My.Resources.Resources.openHS">
+	<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member><member name="P:TestBed.My.Resources.Resources.OptionsHS">
+	<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member><member name="P:TestBed.My.Resources.Resources.PrintHS">
+	<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member><member name="P:TestBed.My.Resources.Resources.saveHS">
+	<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member><member name="T:TestBed.My.Resources.Resources">
+	<summary>
+  Yerelleştirilmiş dizeleri aramak gibi işlemler için, türü kesin olarak belirtilmiş kaynak sınıfı.
+</summary>
+</member><member name="T:TestBed.derDataSet.MusteriDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TestBed.derDataSet.MusteriTelefonDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TestBed.derDataSet.MusteriRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TestBed.derDataSet.MusteriTelefonRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TestBed.derDataSet.MusteriRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TestBed.derDataSet.MusteriTelefonRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TestBed.derDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:TestBed.derDataSetTableAdapters.MusteriTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TestBed.derDataSetTableAdapters.MusteriTelefonTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:TestBed.derDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(TestBed.derDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:TestBed.derDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(TestBed.derDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:TestBed.derDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(TestBed.derDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:TestBed.derDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:TestBed.derDataSetTableAdapters.TableAdapterManager.UpdateAll(TestBed.derDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:TestBed.derDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:TestBed.derDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:TestBed.derDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
